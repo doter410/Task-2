@@ -1,0 +1,14 @@
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.AssemblyInfoInputs.cache
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.AssemblyInfo.cs
+D:\Programming\XAMARIN\Popup\Popup\Popup\bin\Debug\netstandard2.0\Popup.deps.json
+D:\Programming\XAMARIN\Popup\Popup\Popup\bin\Debug\netstandard2.0\Popup.dll
+D:\Programming\XAMARIN\Popup\Popup\Popup\bin\Debug\netstandard2.0\ref\Popup.dll
+D:\Programming\XAMARIN\Popup\Popup\Popup\bin\Debug\netstandard2.0\Popup.pdb
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.csprojAssemblyReference.cache
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.dll
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\ref\Popup.dll
+D:\Programming\XAMARIN\Popup\Popup\Popup\obj\Debug\netstandard2.0\Popup.pdb
